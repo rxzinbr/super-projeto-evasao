@@ -34,6 +34,9 @@ pip install pandas numpy matplotlib seaborn
 
 python projeto.py
 
+## Relatório técnico
+https://docs.google.com/document/d/1FM1kZ_w3KQ43o95ea0aDeC6ebdH1azpTfi0GgZ8LUBI/edit?usp=sharing
+
 ## Autor
 
 Raphael Tuma e Gustavo Pinho
