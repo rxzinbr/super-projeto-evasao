@@ -37,6 +37,9 @@ python projeto.py
 ## Relatório técnico
 https://docs.google.com/document/d/1FM1kZ_w3KQ43o95ea0aDeC6ebdH1azpTfi0GgZ8LUBI/edit?usp=sharing
 
+## Dataset Kaggle
+https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention
+
 ## Autor
 
 Raphael Tuma e Gustavo Pinho
